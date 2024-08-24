@@ -31,7 +31,7 @@ The project is divided into two main directories:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/rucha-sd/recipe-app.git
+git clone https://github.com/rucha-sd/recipe-book.git
 cd recipe-app
 ```
 
