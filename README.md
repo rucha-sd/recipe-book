@@ -10,7 +10,6 @@ The Recipe App is a web application that allows users to browse and view detaile
 - Browse a list of recipes categorized by type.
 - View detailed recipe information including ingredients and instructions.
 - Filter recipes by category.
-- Responsive design for various screen sizes.
 
 ## Tech Stack
 
