@@ -8,7 +8,6 @@ function RecipeDetail({ name, onClose }) {
   const [instructions, setInstructions] = useState(null)
 
   useEffect(() => {
-    // Fetch the data from the API using the name as the lookup
     fetch(`http://localhost:8000/api/menu/${encodeURIComponent(name)}/`)
       .then((response) => {
         if (!response.ok) {
